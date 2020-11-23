@@ -23,6 +23,8 @@ hr{
 .header,.pricing{
   background-image: url('../img/bg.jpg');
   background-attachment: fixed;
+  background-position: center, center;
+  background-size: cover;
   width: 100%;
   min-height: 640px;
 
